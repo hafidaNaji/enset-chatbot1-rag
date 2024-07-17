@@ -1,5 +1,5 @@
 <h3>Comte rendu Chat Bot</h3>
-<img src="captures/cp1.png">
+<img src="captures/cp1.PNG">
 <img src="captures/cp2.png">
 <img src="captures/cp3.png"><img src="captures/cp1.png">
 <img src="captures/cp4.png">
